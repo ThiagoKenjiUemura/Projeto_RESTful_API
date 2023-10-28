@@ -154,6 +154,9 @@ Método: GET
 Descrição: Retorna as transações do usuário autenticado filtradas por uma categoria específica.
 
 A API estará disponível em http://localhost:3000.
+
+
+
 ![Captura de Tela (112)](https://github.com/ThiagoKenjiUemura/Projeto_RESTful_API/assets/132626308/140db95e-48c8-494a-8101-89b6387a23dc)
 
 
