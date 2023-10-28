@@ -52,9 +52,11 @@ Como Usar:
 Execute os scripts SQL no seu banco de dados PostgreSQL para criar as tabelas e inserir os dados iniciais.
 Configure as credenciais do banco de dados na aplicação conforme necessário.
 Observação: Certifique-se de ter um backup ou ambiente de teste antes de executar scripts SQL em um ambiente de produção.
-<img src="https://ibb.co/r7tgtsh">
 
-
+![Captura de Tela (111)](https://github.com/ThiagoKenjiUemura/Projeto_RESTful_API/assets/132626308/585d3a3c-3362-4c7e-b0e7-19e67d9ddc26) 
+![Captura de Tela (114)](https://github.com/ThiagoKenjiUemura/Projeto_RESTful_API/assets/132626308/0a26f3e4-6124-492a-a992-05fbc6a82959)
+![Captura de Tela (115)](https://github.com/ThiagoKenjiUemura/Projeto_RESTful_API/assets/132626308/af821ae6-c8d1-473e-8eed-856dd5e28b8f)
+![Captura de Tela (116)](https://github.com/ThiagoKenjiUemura/Projeto_RESTful_API/assets/132626308/d85b20c9-09d3-470e-93ab-17c0cfe317f3)
 
 
 
@@ -152,7 +154,10 @@ Método: GET
 Descrição: Retorna as transações do usuário autenticado filtradas por uma categoria específica.
 
 A API estará disponível em http://localhost:3000.
-<img src="https://ibb.co/9gC9Vhc"> <img src="https://ibb.co/T4CWpQY"> 
+![Captura de Tela (112)](https://github.com/ThiagoKenjiUemura/Projeto_RESTful_API/assets/132626308/140db95e-48c8-494a-8101-89b6387a23dc)
+![Captura de Tela (113)](https://github.com/ThiagoKenjiUemura/Projeto_RESTful_API/assets/132626308/b02ef95e-027e-4c54-bfb0-2db86229951e)
+
+
 Tecnologias Utilizadas:
 Node.js
 Express.js
