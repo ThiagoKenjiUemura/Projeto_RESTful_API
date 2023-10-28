@@ -52,6 +52,33 @@ Como Usar:
 Execute os scripts SQL no seu banco de dados PostgreSQL para criar as tabelas e inserir os dados iniciais.
 Configure as credenciais do banco de dados na aplicação conforme necessário.
 Observação: Certifique-se de ter um backup ou ambiente de teste antes de executar scripts SQL em um ambiente de produção.
+<img src="C:\Users\kenji\OneDrive\Imagens\Capturas de tela\Captura de Tela (111)">
+
+
+
+
+
+
+Configuração do Banco de Dados - PostgreSQL:
+1. Instalação do PostgreSQL -
+Certifique-se de ter o PostgreSQL instalado no seu sistema. Você pode baixá-lo em https://www.postgresql.org/.
+
+2. Configuração do Banco de Dados - 
+No arquivo conexao.js, você encontrará a configuração do banco de dados. Certifique-se de ajustar as seguintes propriedades conforme a sua instalação do PostgreSQL:
+host: O endereço do servidor PostgreSQL.
+port: A porta na qual o servidor PostgreSQL está escutando.
+user: O nome de usuário do banco de dados.
+password: A senha do banco de dados.
+database: O nome do banco de dados.
+Certifique-se de substituir os valores acima pelos correspondentes da sua instalação.
+
+Executando a Aplicação
+Após configurar o banco de dados, você pode executar a aplicação. Certifique-se de ter as dependências instaladas e configurar corretamente outras partes da aplicação, como as chaves secretas para tokens JWT.
+
+
+
+
+
 
 Middleware de Validação de Token:
 Como Funciona:
@@ -123,6 +150,9 @@ Descrição: Retorna um extrato de todas as transações realizadas pelo usuári
 Endpoint: /transacao
 Método: GET
 Descrição: Retorna as transações do usuário autenticado filtradas por uma categoria específica.
+
+A API estará disponível em http://localhost:3000.
+<img src="C:\Users\kenji\OneDrive\Imagens\Capturas de tela\Captura de Tela (112)"> <img src="C:\Users\kenji\OneDrive\Imagens\Capturas de tela\Captura de Tela (113)">
 
 Tecnologias Utilizadas:
 Node.js
