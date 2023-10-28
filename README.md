@@ -52,7 +52,7 @@ Como Usar:
 Execute os scripts SQL no seu banco de dados PostgreSQL para criar as tabelas e inserir os dados iniciais.
 Configure as credenciais do banco de dados na aplicação conforme necessário.
 Observação: Certifique-se de ter um backup ou ambiente de teste antes de executar scripts SQL em um ambiente de produção.
-<img src="C:\Users\kenji\OneDrive\Imagens\Capturas de tela\Captura de Tela (111)">
+<img src="https://ibb.co/r7tgtsh">
 
 
 
@@ -152,8 +152,7 @@ Método: GET
 Descrição: Retorna as transações do usuário autenticado filtradas por uma categoria específica.
 
 A API estará disponível em http://localhost:3000.
-<img src="C:\Users\kenji\OneDrive\Imagens\Capturas de tela\Captura de Tela (112)"> <img src="C:\Users\kenji\OneDrive\Imagens\Capturas de tela\Captura de Tela (113)">
-
+<img src="https://ibb.co/9gC9Vhc"> <img src="https://ibb.co/T4CWpQY"> 
 Tecnologias Utilizadas:
 Node.js
 Express.js
